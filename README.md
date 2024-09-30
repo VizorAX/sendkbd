@@ -1,6 +1,6 @@
 # Vizor.Sendkbd
 
-[![Release](https://img.shields.io/github/v/release/VizorAX/sendkbd)](https://github.com/VizorAX/sendkbd/releases)  
+[![Release](https://img.shields.io/github/v/release/VizorAX/sendkbd)](https://github.com/VizorAX/sendkbd/releases)
 [![License](https://img.shields.io/github/license/VizorAX/sendkbd)](LICENSE)
 
 > **Vizor.Sendkbd** includes both `vizor.sendkbd.exe` and `vizor.recvkbd.exe` for efficient, low-latency keyboard event streaming over a network.
